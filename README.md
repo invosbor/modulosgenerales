@@ -1,0 +1,2 @@
+# modulosgenerales
+modulos odoo12
